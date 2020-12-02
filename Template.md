@@ -47,7 +47,7 @@ However, feel free to explore my public Repositories and leave some Feedback!
 <br>
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NewCeptionDev&hide=stars,contribs,prs,issues&count_private=true&show_icons=true&theme=onedark&hide_border=true&custom_title=NewceptionDev's%20Github%20Stats&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NewCeptionDev&hide=stars,contribs,prs,issues&count_private=true&show_icons=true&theme=onedark&hide_border=true&custom_title=This%20Year's%20Stats&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### All Time Stats
 
