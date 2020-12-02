@@ -48,3 +48,16 @@ However, feel free to explore my public Repositories and leave some Feedback!
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NewCeptionDev&hide=stars,contribs,prs,issues&count_private=true&show_icons=true&theme=onedark&hide_border=true&custom_title=NewceptionDev's%20Github%20Stats&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### All Time Stats
+
+*Account Age:* ***3***  
+*Pushed*  ***461*** *Commits*  
+*Created* ***23*** *Repositories*
+
+### Language Usage
+
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B172.3%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B114.2%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B15.9%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B17.4%25)
