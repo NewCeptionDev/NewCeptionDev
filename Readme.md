@@ -1,4 +1,4 @@
-## Hey there
+## Hey there :wave:
 My Name ist Julius and I'm a German Computer Science Student.
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
