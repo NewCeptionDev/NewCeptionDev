@@ -6,14 +6,13 @@ My Name ist Julius and I'm a German Computer Science Student.
 
 :mortar_board: Currently writing my Bachelor Thesis  
 :round_pushpin: Hamburg, Germany  
-:video_game: I play lots of Video Games  
+:video_game: Playing lots of Video Games  
 :headphones: Listening to Music while Coding  
 :books: Interested in Machine Learning  
 :bulb: Trying to follow the Clean Code Approach
 
-Most of the Projects I work on, stay in the Conception Phase, which is the Reason you won't be able to explore most of
-them.  
-However, feel free to explore my public Repositories and leave some Feedback!
+Most of the Projects I work on, stay in the Conception Phase and never get finished, which is the reason you won't be able to explore them.  
+However, feel free to check out my public Repositories and leave some Feedback!
 
 ### Languages
 
@@ -26,7 +25,7 @@ However, feel free to explore my public Repositories and leave some Feedback!
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
-### Frameworks
+### Frameworks & Tools
 
 <div>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -46,8 +45,6 @@ However, feel free to explore my public Repositories and leave some Feedback!
 </div>
 <br>
 <br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NewCeptionDev&hide=stars,contribs,prs,issues&count_private=true&show_icons=true&theme=onedark&hide_border=true&custom_title=This%20Year's%20Stats&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### All Time Stats
 
