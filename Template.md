@@ -4,7 +4,7 @@ My Name ist Julius and I'm a German Computer Science Student.
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
 
-:mortar_board: Currently writing my Bachelor Thesis  
+:mortar_board: Currently working on my Master in Computer Science  
 :round_pushpin: Hamburg, Germany  
 :video_game: Playing lots of Video Games  
 :headphones: Listening to Music while Coding  
