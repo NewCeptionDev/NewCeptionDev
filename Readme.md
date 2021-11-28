@@ -47,7 +47,7 @@ However, feel free to check out my public Repositories and leave some Feedback!
 ### All Time Stats
 
 *Account Age:* ***4***  
-*Pushed*  ***770*** *Commits*  
+*Pushed*  ***771*** *Commits*  
 *Created* ***33*** *Repositories*
 
 ### Language Usage
