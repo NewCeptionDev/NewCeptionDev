@@ -47,15 +47,15 @@ However, feel free to check out my public Repositories and leave some Feedback!
 ### All Time Stats
 
 *Account Age:* ***4***  
-*Pushed*  ***1124*** *Commits*  
-*Created* ***38*** *Repositories*
+*Pushed*  ***1137*** *Commits*  
+*Created* ***39*** *Repositories*
 
 ### Language Usage
 
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B133%25)
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B130.3%25)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B115.6%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B111%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B132.5%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B131.3%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B115.3%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B110.8%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.8%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B12.8%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.4%25)
