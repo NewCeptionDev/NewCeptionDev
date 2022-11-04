@@ -4,8 +4,8 @@ My Name ist Julius and I'm a German Computer Science Student.
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
 
-:office: Working at adesso SE
-:mortar_board: Master of Science
+:office: Working at adesso SE  
+:mortar_board: Master of Science  
 :round_pushpin: Hamburg, Germany  
 :video_game: Playing lots of Video Games  
 :headphones: Listening to Music while Coding  
@@ -48,7 +48,7 @@ However, feel free to check out my public Repositories and leave some Feedback!
 ### All Time Stats
 
 *Account Age:* ***5***  
-*Pushed*  ***1508*** *Commits*  
+*Pushed*  ***1509*** *Commits*  
 *Created* ***41*** *Repositories*
 
 ### Language Usage
