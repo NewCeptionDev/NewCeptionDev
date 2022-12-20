@@ -2,7 +2,7 @@
 
 My Name ist Julius and I'm a german Software Developer.
 
-<img style="float: right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
+<img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
 
 :office: Working at adesso SE  
 :mortar_board: Master of Science  
