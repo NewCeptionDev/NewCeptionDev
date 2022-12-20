@@ -2,7 +2,7 @@
 
 My Name ist Julius and I'm a german Software Developer.
 
-<img style="float: right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
+<img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
 
 :office: Working at adesso SE  
 :mortar_board: Master of Science  
@@ -62,7 +62,7 @@ However, feel free to check out my public Repositories and leave some Feedback!
 ### All Time Stats
 
 *Account Age:* ***5***  
-*Pushed*  ***1591*** *Commits*  
+*Pushed*  ***1593*** *Commits*  
 *Created* ***44*** *Repositories*
 
 ### Language Usage
