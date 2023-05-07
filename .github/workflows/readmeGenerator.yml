@@ -23,6 +23,7 @@ jobs:
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
           git config --global user.name "Github Actions"
+          git config --global user.email "newceptiondev@googlemail.com"
           git add .
           git commit -m "Update README"
           git push
