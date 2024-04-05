@@ -1,19 +1,16 @@
 ## Hey there :wave:
 
-My Name ist Julius and I'm a german Software Developer.
+My Name ist Julius and I'm a german Software Engineer.
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
 
-:office: Working at adesso SE  
-:mortar_board: Master of Science  
+:office: Working at Hapag-Lloyd
+:mortar_board: Master of Science in Computer Science
 :round_pushpin: Hamburg, Germany  
 :video_game: Playing lots of Video Games  
-:headphones: Listening to Music while Coding  
-:books: Interested in Machine Learning  
-:bulb: Trying to follow the Clean Code Approach
+:headphones: Listening to Music while Coding
 
-Most of the Projects I work on, stay in the Conception Phase and never get finished, which is the reason you won't be able to explore them.  
-However, feel free to check out my public Repositories and leave some Feedback!
+Feel free to check out my public repositories and leave some feedback!
 
 ### Languages
 
@@ -61,9 +58,9 @@ However, feel free to check out my public Repositories and leave some Feedback!
 
 ### All Time Stats
 
-*Account Age:* ***6***  
-*Pushed*  ***1642*** *Commits*  
-*Created* ***46*** *Repositories*
+_Account Age:_ **_6_**  
+_Pushed_ **_1644_** _Commits_  
+_Created_ **_46_** _Repositories_
 
 ### Language Usage
 
