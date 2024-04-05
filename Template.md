@@ -4,11 +4,11 @@ My Name ist Julius and I'm a german Software Engineer.
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/hey.gif"/>
 
-:office: Working at Hapag-Lloyd
-:mortar_board: Master of Science in Computer Science
-:round_pushpin: Hamburg, Germany  
-:video_game: Playing lots of Video Games  
-:headphones: Listening to Music while Coding
+:office: Working at Hapag-Lloyd<br>
+:mortar_board: Master of Science in Computer Science<br>
+:round_pushpin: Hamburg, Germany<br>
+:video_game: Playing lots of Video Games<br>
+:headphones: Listening to Music while Coding<br>
 
 Feel free to check out my public repositories and leave some feedback!
 
