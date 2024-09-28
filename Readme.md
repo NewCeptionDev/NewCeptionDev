@@ -58,7 +58,7 @@ Feel free to check out my public repositories and leave some feedback!
 
 ### All Time Stats
 
-_Account Age:_ **_6_**  
+_Account Age:_ **_7_**  
 _Pushed_ **_1742_** _Commits_  
 _Created_ **_49_** _Repositories_
 
