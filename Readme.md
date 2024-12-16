@@ -59,14 +59,14 @@ Feel free to check out my public repositories and leave some feedback!
 ### All Time Stats
 
 _Account Age:_ **_7_**  
-_Pushed_ **_1790_** _Commits_  
+_Pushed_ **_1791_** _Commits_  
 _Created_ **_51_** _Repositories_
 
 ### Language Usage
 
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B143%25)
-![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B124.8%25)
-![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B114.8%25)
+![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B143.2%25)
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B124.7%25)
+![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B114.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B17.2%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B14.3%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B11.9%25)
