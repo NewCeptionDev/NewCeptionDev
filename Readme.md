@@ -59,7 +59,7 @@ Feel free to check out my public repositories and leave some feedback!
 ### All Time Stats
 
 _Account Age:_ **_7_**  
-_Pushed_ **_1854_** _Commits_  
+_Pushed_ **_1856_** _Commits_  
 _Created_ **_54_** _Repositories_
 
 ### Language Usage
@@ -71,4 +71,4 @@ _Created_ **_54_** _Repositories_
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B13.7%25)
 ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%EF%B8%B12.5%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B11.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.7%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B12.8%25)
